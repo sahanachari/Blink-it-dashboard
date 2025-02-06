@@ -1,4 +1,5 @@
  Blink-it-dashboard
+![Dashboard pic](https://github.com/user-attachments/assets/7b38d47f-9e97-475c-a448-62dfa2ae2d8b)
 
 The analysis focuses on Blinkit’s sales performance, customer satisfaction, and inventory distribution to uncover key insights and optimization opportunities. The study uses various KPIs and visualizations in Power BI to evaluate factors affecting sales and customer engagement.
 
@@ -26,6 +27,6 @@ Total Sales by Outlet Establishment (Line Chart)
 Sales by Outlet Size (Donut/Pie Chart)
 Sales by Outlet Location (Funnel Map)
 All Metrics by Outlet Type (Matrix Card)
-![Dashboard pic](https://github.com/user-attachments/assets/7b38d47f-9e97-475c-a448-62dfa2ae2d8b)
+
 
 
