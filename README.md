@@ -26,3 +26,6 @@ Total Sales by Outlet Establishment (Line Chart)
 Sales by Outlet Size (Donut/Pie Chart)
 Sales by Outlet Location (Funnel Map)
 All Metrics by Outlet Type (Matrix Card)
+![Dashboard pic](https://github.com/user-attachments/assets/7b38d47f-9e97-475c-a448-62dfa2ae2d8b)
+
+
